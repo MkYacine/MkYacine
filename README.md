@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning researcher and practitioner currently pursuing a master's degree at MILA (Montreal Institute of Learning Algorithms).<br>Focusing on the newest deep learning and large language models innovations.<br>Actively engaged in data science, machine learning, and backend development projects on Upwork. <br>Applying advanced ML algorithms and data processing pipelines to solve real-world problems.<br>
+Machine Learning student and practitioner currently pursuing a master's degree at MILA (Montreal Institute of Learning Algorithms).<br>Focusing on the latest NLP and large language models innovations.<br>Actively engaged in data science, machine learning, and backend development projects on Upwork. <br>Applying ML algorithms and data processing pipelines to solve real-world problems.<br>
 
 
 ## 🌐 Socials:
