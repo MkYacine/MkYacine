@@ -1,6 +1,5 @@
 # 💫 About Me:
-Machine Learning student and practitioner currently pursuing a master's degree at MILA (Montreal Institute of Learning Algorithms).<br>Focusing on the latest NLP and large language models innovations.<br>Actively engaged in data science, machine learning, and backend development projects on Upwork. <br>Applying ML algorithms and data processing pipelines to solve real-world problems.<br>
-
+Machine Learning student and practitioner pursuing a MsC at MILA (Montreal Institute of Learning Algorithms).<br>Interested in latest NLP and LLM research.<br>Actively engaged in DS, ML, and backend projects on Upwork.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in.com/in/yacine-mkhinini-b29ab81a5/) 
